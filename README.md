@@ -26,6 +26,8 @@ Subdomains :
 ---
 
 ## Text Processing :
-| Number |                                           Challenges                                           | Solutions |
-| :----: | :--------------------------------------------------------------------------------------------: | :-------: |
-|   1    | [Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem?isFullScreen=true) |   [Solution.sh](./Text_processing/cut1.sh)    |
+| Number |                                           Challenges                                            |                Solutions                 |
+| :----: | :---------------------------------------------------------------------------------------------: | :--------------------------------------: |
+|   1    | [Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem?isFullScreen=true) | [Solution.sh](./Text_processing/cut1.sh) |
+|   2    | [Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2/problem?isFullScreen=true) | [Solution.sh](./Text_processing/cut2.sh) |
+| 3 | [Cut #3](https://www.hackerrank.com/challenges/text-processing-cut-3/problem?isFullScreen=true) | [Solution.sh]() |
