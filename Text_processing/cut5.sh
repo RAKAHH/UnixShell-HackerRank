@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cut -c2,7
+cut -f 1-3
