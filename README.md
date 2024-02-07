@@ -35,3 +35,5 @@ Subdomains :
 |   5    | [Cut #5](https://www.hackerrank.com/challenges/text-processing-cut-5/problem?isFullScreen=true) | [Solution.sh](./Text_processing/cut5.sh) |
 |   6    | [Cut #6](https://www.hackerrank.com/challenges/text-processing-cut-6/problem?isFullScreen=true) | [Solution.sh](./Text_processing/cut6.sh) |
 |   7    | [Cut #7](https://www.hackerrank.com/challenges/text-processing-cut-7/problem?isFullScreen=true) | [Solution.sh](./Text_processing/cut7.sh) |
+| 8 | | [Cut #8](https://www.hackerrank.com/challenges/text-processing-cut-8/problem?isFullScreen=true) | [Solution.sh](./Text_processing/cut8.sh) |
+| 9 | [Cut #9](https://www.hackerrank.com/challenges/text-processing-cut-9/problem?isFullScreen=true) | [Solution.sh](./Text_processing/cut9.sh) |
