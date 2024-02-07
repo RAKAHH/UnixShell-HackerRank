@@ -1,3 +1,3 @@
 #!/bin/bash
 
-head -n 20
+head -c 20

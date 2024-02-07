@@ -38,3 +38,5 @@ Subdomains :
 |   8    |         [Cut #8](https://www.hackerrank.com/challenges/text-processing-cut-8/problem?isFullScreen=true)          |       [Solution.sh](./Text_processing/cut8.sh)       |
 |   9    |         [Cut #9](https://www.hackerrank.com/challenges/text-processing-cut-9/problem?isFullScreen=true)          |       [Solution.sh](./Text_processing/cut9.sh)       |
 |   10   | [Head of a Text File #1](https://www.hackerrank.com/challenges/text-processing-head-1/problem?isFullScreen=true) | [Solution.sh](./Text_processing/head_text_files1.sh) |
+| 11 | [Head of a Text File #2](https://www.hackerrank.com/challenges/text-processing-head-2/problem?isFullScreen=true) | [Solution.sh](./Text_processing/head_text_files2.sh) |
+| 12 | [Middle of a Text File](https://www.hackerrank.com/challenges/text-processing-in-linux---the-middle-of-a-text-file/problem?isFullScreen=true) | [Solution.sh](./Text_processing/middle_text_file.sh) |
