@@ -26,14 +26,14 @@ Subdomains :
 ---
 
 ## Text Processing :
-| Number |                                           Challenges                                            |                Solutions                 |
-| :----: | :---------------------------------------------------------------------------------------------: | :--------------------------------------: |
-|   1    | [Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem?isFullScreen=true) | [Solution.sh](./Text_processing/cut1.sh) |
-|   2    | [Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2/problem?isFullScreen=true) | [Solution.sh](./Text_processing/cut2.sh) |
-|   3    | [Cut #3](https://www.hackerrank.com/challenges/text-processing-cut-3/problem?isFullScreen=true) | [Solution.sh](./Text_processing/cut3.sh) |
-|   4    | [Cut #4](https://www.hackerrank.com/challenges/text-processing-cut-4/problem?isFullScreen=true) | [Solution.sh](./Text_processing/cut4.sh) |
-|   5    | [Cut #5](https://www.hackerrank.com/challenges/text-processing-cut-5/problem?isFullScreen=true) | [Solution.sh](./Text_processing/cut5.sh) |
-|   6    | [Cut #6](https://www.hackerrank.com/challenges/text-processing-cut-6/problem?isFullScreen=true) | [Solution.sh](./Text_processing/cut6.sh) |
-|   7    | [Cut #7](https://www.hackerrank.com/challenges/text-processing-cut-7/problem?isFullScreen=true) | [Solution.sh](./Text_processing/cut7.sh) |
-| 8 | | [Cut #8](https://www.hackerrank.com/challenges/text-processing-cut-8/problem?isFullScreen=true) | [Solution.sh](./Text_processing/cut8.sh) |
-| 9 | [Cut #9](https://www.hackerrank.com/challenges/text-processing-cut-9/problem?isFullScreen=true) | [Solution.sh](./Text_processing/cut9.sh) |
+| Number |                                           Challenges                                            |                                            Solutions                                            |
+| :----: | :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
+|   1    | [Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem?isFullScreen=true) |                            [Solution.sh](./Text_processing/cut1.sh)                             |
+|   2    | [Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2/problem?isFullScreen=true) |                            [Solution.sh](./Text_processing/cut2.sh)                             |
+|   3    | [Cut #3](https://www.hackerrank.com/challenges/text-processing-cut-3/problem?isFullScreen=true) |                            [Solution.sh](./Text_processing/cut3.sh)                             |
+|   4    | [Cut #4](https://www.hackerrank.com/challenges/text-processing-cut-4/problem?isFullScreen=true) |                            [Solution.sh](./Text_processing/cut4.sh)                             |
+|   5    | [Cut #5](https://www.hackerrank.com/challenges/text-processing-cut-5/problem?isFullScreen=true) |                            [Solution.sh](./Text_processing/cut5.sh)                             |
+|   6    | [Cut #6](https://www.hackerrank.com/challenges/text-processing-cut-6/problem?isFullScreen=true) |                            [Solution.sh](./Text_processing/cut6.sh)                             |
+|   7    | [Cut #7](https://www.hackerrank.com/challenges/text-processing-cut-7/problem?isFullScreen=true) |                            [Solution.sh](./Text_processing/cut7.sh)                             |
+|   8    |  [Cut #8](https://www.hackerrank.com/challenges/text-processing-cut-8/problem?isFullScreen=true)                                                                                               |  | [Solution.sh](./Text_processing/cut8.sh) |
+|   9    | [Cut #9](https://www.hackerrank.com/challenges/text-processing-cut-9/problem?isFullScreen=true) |                            [Solution.sh](./Text_processing/cut9.sh)                             |
