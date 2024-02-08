@@ -8,7 +8,7 @@ Subdomains :
 
 ---
 
-## Bash
+## Bash :
 | Number |                                                                       Challenges                                                                        |                       Solutions                       |
 | :----: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------: |
 |   1    |                         [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem?isFullScreen=true)                          |          [Solution.sh](./Bash/lets_echo.sh)           |
@@ -47,3 +47,12 @@ Subdomains :
 |   17   |                     [Tr Command #3](https://www.hackerrank.com/challenges/text-processing-tr-3/problem?isFullScreen=true)                     |        [Solution.sh](./Text_processing/tr_3.sh)         |
 |   18   |                   [Sort Command #1](https://www.hackerrank.com/challenges/text-processing-sort-1/problem?isFullScreen=true)                   |       [Solution.sh](./Text_processing/sort_1.sh)        |
 |   19   |                   [Sort Command #2](https://www.hackerrank.com/challenges/text-processing-sort-2/problem?isFullScreen=true)                   |       [Solution.sh](./Text_processing/sort_2.sh)        |
+|   20   |                   [Sort Command #3](https://www.hackerrank.com/challenges/text-processing-sort-3/problem?isFullScreen=true)                   |       [Solution.sh](./Text_processing/sort_3.sh)        |
+|   21   |                   [Sort Command #4](https://www.hackerrank.com/challenges/text-processing-sort-4/problem?isFullScreen=true)                   |       [Solution.sh](./Text_processing/sort_4.sh)        |
+
+---
+
+## Arrays in Bash :
+| Number |                                                                  Challenges                                                                   |                        Solutions                        |
+| :----: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------: |
+| 1 | []() | []() |
