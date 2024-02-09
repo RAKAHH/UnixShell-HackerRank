@@ -54,6 +54,7 @@ Subdomains :
 |   24   |                   [Sort Command #7](https://www.hackerrank.com/challenges/text-processing-sort-7/problem?isFullScreen=true)                   |       [Solution.sh](./Text_processing/sort_7.sh)        |
 |   25   |        [Uniq Command #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-1/problem?isFullScreen=true)         |       [Solution.sh](./Text_processing/uniq_1.sh)        |
 |   26   |        [Uniq Command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-2/problem?isFullScreen=true)         |       [Solution.sh](./Text_processing/uniq_2.sh)        |
+| 27 | [Uniq Command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/problem?isFullScreen=true) | [Solution.sh](./Text_processing/uniq_3.sh) |
 
 
 <!-- ---
