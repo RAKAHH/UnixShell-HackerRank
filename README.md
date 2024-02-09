@@ -49,10 +49,11 @@ Subdomains :
 |   19   |                   [Sort Command #2](https://www.hackerrank.com/challenges/text-processing-sort-2/problem?isFullScreen=true)                   |       [Solution.sh](./Text_processing/sort_2.sh)        |
 |   20   |                   [Sort Command #3](https://www.hackerrank.com/challenges/text-processing-sort-3/problem?isFullScreen=true)                   |       [Solution.sh](./Text_processing/sort_3.sh)        |
 |   21   |                   [Sort Command #4](https://www.hackerrank.com/challenges/text-processing-sort-4/problem?isFullScreen=true)                   |       [Solution.sh](./Text_processing/sort_4.sh)        |
+|   22   |                   [Sort Command #5](https://www.hackerrank.com/challenges/text-processing-sort-5/problem?isFullScreen=true)                   |       [Solution.sh](./Text_processing/sort_5.sh)        |
 
----
+<!-- ---
 
 ## Arrays in Bash :
-| Number |                                                                  Challenges                                                                   |                        Solutions                        |
-| :----: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------: |
-| 1 | []() | []() |
+| Number | Challenges | Solutions |
+| :----: | :--------: | :-------: |
+|   1    |    []()    |   []()    | --> |
