@@ -57,6 +57,9 @@ Subdomains :
 |   27   |        [Uniq Command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/problem?isFullScreen=true)         |       [Solution.sh](./Text_processing/uniq_3.sh)        |
 |   28   |        [Uniq Command #4](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4/problem?isFullScreen=true)         |       [Solution.sh](./Text_processing/uniq_4.sh)        |
 |   29   |                             [Paste - 3](https://www.hackerrank.com/challenges/paste-3/problem?isFullScreen=true)                              |       [Solution.sh](./Text_processing/paste_3.sh)       |
+|   30   |                             [Paste - 4](https://www.hackerrank.com/challenges/paste-4/problem?isFullScreen=true)                              |       [Solution.sh](./Text_processing/paste_4.sh)       |
+|   31   |                             [Paste - 1](https://www.hackerrank.com/challenges/paste-1/problem?isFullScreen=true)                              |       [Solution.sh](./Text_processing/paste_1.sh)       |
+|   32   |                             [Paste - 2](https://www.hackerrank.com/challenges/paste-2/problem?isFullScreen=true)                              |       [Solution.sh](./Text_processing/paste_2.sh)       |
 
 
 <!-- ---
@@ -64,4 +67,4 @@ Subdomains :
 ## Arrays in Bash :
 | Number | Challenges | Solutions |
 | :----: | :--------: | :-------: |
-|   1    |    []()    |   []()    | --> |
+|   1    |    []()    |   []()    | --> 
