@@ -62,6 +62,8 @@ Subdomains :
 |   32   |                             [Paste - 2](https://www.hackerrank.com/challenges/paste-2/problem?isFullScreen=true)                              |       [Solution.sh](./Text_processing/paste_2.sh)       |
 
 ## Arrays in Bash :
-| Number | Challenges | Solutions |
-| :----: | :--------: | :-------: |
-|   1    |    [Read in an Array](https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem?isFullScreen=true)    |   [Solution.sh](./Arrays/read_array.sh)    |
+| Number |                                                     Challenges                                                      |               Solutions               |
+| :----: | :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------: |
+|   1    | [Read in an Array](https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem?isFullScreen=true) | [Solution.sh](./Arrays/read_array.sh) |
+| 2 | [Slice an Array](https://www.hackerrank.com/challenges/bash-tutorials-slice-an-array/problem?isFullScreen=true) | [Solution.sh](./Arrays/slice_array.sh) |
+| 3 | []() | []() |
